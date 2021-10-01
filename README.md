@@ -274,9 +274,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 Thank you to the [contributors](https://github.com/jtblin/angular-chart.js/graphs/contributors)!
 
-# Author
-
-Jerome Touffe-Blin, [@jtblin](https://twitter.com/jtblin), [About me](http://about.me/jtblin)
 
 # License
 
